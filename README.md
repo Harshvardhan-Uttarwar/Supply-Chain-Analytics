@@ -1,4 +1,4 @@
-# Supply-Chain-Analytics
+# ML in Supply-Chain-Analytics
 
 1.Basic EDA - Corr. between factors, plotting average/total sales by region, category, market 
 
